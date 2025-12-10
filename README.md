@@ -22,8 +22,7 @@ Using historical data spanning from launch (Nov/2020) to 2025, this notebook inv
 3.  **Hyper-Growth to Stability:** The system saw an explosive **158,000% growth** in financial volume during its first full year (2021) and has since settled into a mature, steady growth phase in 2024-2025.
 
 ## File Structure
-* `pix_analysis.ipynb`: The main Jupyter Notebook containing code, visualizations, and commentary.
-* `pix_historical_data.csv`: (Optional) The cleaned dataset used for this analysis.
+* `the-evolution-of-instant-payments-in-brazil.ipynb`: The main Jupyter Notebook containing code, visualizations, and commentary.
 
 ---
 *Author: [Jadson Chagas](https://www.linkedin.com/in/jadson-chagas/)*
